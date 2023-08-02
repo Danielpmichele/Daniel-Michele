@@ -26,7 +26,7 @@ def send_email(sender_email, sender_password, recipient_email, subject, body):
 
 # Replace the following variables with your email credentials and desired email content
 sender_email = "brianocultic@gmail.com"
-sender_password = "yewnypmoenmzkeyu" # use password generated from google account
+sender_password = "xxxxxxxxxxx" # use password generated from google account
 recipient_email = "Danielmichele47@gmail.com"
 subject = "Testing"
 body = "You created an email sending bot"
